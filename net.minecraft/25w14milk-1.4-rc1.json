@@ -7,10 +7,10 @@
     ],
     "assetIndex": {
         "id": "26",
-        "sha1": "5777f956fef608c3c0960932d925bfae6c4e1d91",
+        "sha1": "9b48521e5769b3e901464e7f5dd9eeca77404f5d",
         "size": 687281,
         "totalSize": 434477187,
-        "url": "https://meta.lighsync.org/v1/packages/5777f956fef608c3c0960932d925bfae6c4e1d91/26.json"
+        "url": "https://meta.lighsync.org/v1/packages/9b48521e5769b3e901464e7f5dd9eeca77404f5d/26.json"
     },
     "compatibleJavaMajors": [
         21
