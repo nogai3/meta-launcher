@@ -1,0 +1,8 @@
+{
+    "formatVersion": 1,
+    "name": "Minecraft",
+    "recommended": [
+        "1.21.9", "25w14milk-rc1"
+    ],
+    "uid": "net.minecraft"
+}

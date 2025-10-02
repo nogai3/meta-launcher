@@ -1,0 +1,35 @@
+{
+    "formatVersion": 1,
+    "packages": [
+        {
+            "name": "Java Runtimes",
+            "sha256": "69ba499da834ae24365856980d7691ff7aa1c6f0fad5c3a1c4544f929060f670",
+            "uid": "com.azul.java"
+        },
+        {
+            "name": "Java Runtimes",
+            "sha256": "f35a811817d75b48fbaeab31302663a1a8457bc7b91e00e433163c3fd3d58837",
+            "uid": "net.adoptium.java"
+        },
+        {
+            "name": "Minecraft",
+            "sha256": "3cddfb05b55184f27637e23df56f06068cd801fbba55bd2095b965c6878c6d6d",
+            "uid": "net.minecraft"
+        },
+        {
+            "name": "Java Runtimes",
+            "sha256": "cfe24c8249dd9394929fea41aa54e380da9c2c6cdde944ed0669e373a396a876",
+            "uid": "net.minecraft.java"
+        },
+        {
+            "name": "LWJGL 2",
+            "sha256": "3db51500ebe6d0976ccc8618ad9ff76b475d4ad945440c68d0fc41e05508972b",
+            "uid": "org.lwjgl"
+        },
+        {
+            "name": "LWJGL 3",
+            "sha256": "5f10ade817e4dd4de5bc4ca587f9e06cca0b104b0abaaeb028b2a30083eda98f",
+            "uid": "org.lwjgl3"
+        }
+    ]
+}
